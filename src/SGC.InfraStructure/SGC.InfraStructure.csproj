@@ -6,7 +6,7 @@
 
   <ItemGroup>
     <Folder Include="Data\" />
-    <Folder Include="EntitConfig\" />
+    <Folder Include="EntityConfig\" />
     <Folder Include="Repository\" />
   </ItemGroup>
 
